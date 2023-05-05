@@ -9,18 +9,12 @@
 
 ## Daftar Isi
 1. [Fitur](#fitur)
-2. [Demo Aplikasi](#demo-aplikasi)
-3. [Instalasi](#instalasi)
-    - [Spesifikasi yang Dibutuhkan](#spesifikasi)
-    - [Cara Install](#cara-install)
-    - [Login Admin](#cara-install)
-    - [Testing](#automated-testing)
-4. [Input Produk dan Satuan](#input-produk-dan-satuan)
-5. [Proses Transaksi](#proses-transksi)
+2. [Input Produk dan Satuan](#input-produk-dan-satuan)
+3. [Proses Transaksi](#proses-transksi)
     - [Keranjang Belanja](#keranjang-belanja)
     - [Proses Entry Transaksi](#proses-entry-transaksi)
-6. [Screenshots](#screenshots)
-7. [Lisensi](#license)
+4. [Screenshots](#screenshots)
+5. [Lisensi](#license)
 
 <hr>
 
@@ -43,21 +37,12 @@ Fitur pada Aplikasi ini meliputi:
     - Input Produk Baru
     - Edit Produk (Harga Tunai dan Kredit)
     - Hapus Produk
-4. Manajemen Satuan Produk
-    - List Satuan Produk
-    - Input Produk Baru
-    - Edit Satuan Produk
-    - Hapus Satuan Produk
-5. Manajemen Transaksi
+4. Manajemen Transaksi
     - List Transaksi Hari ini
     - List Transaksi
     - Detail Transaksi
     - Cetak Nota (PDF; Format A4)
-6. Laporan Penjualan
-    - Penjualan Per Tahun
-    - Penjualan Per Bulan
-    - Penjualan Per Tanggal
-6. Manajemen User
+5. Manajemen User
     - List User
     - Input User Baru
     - Edit User
